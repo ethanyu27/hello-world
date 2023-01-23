@@ -4,7 +4,7 @@
 }
 
 #octocat {
-  display: block;
+  display: left;
   width:384px;
   margin: 50px auto;
 }
@@ -19,4 +19,5 @@ p,b {
 #myPDF {
  width: 50%;
  height:355px;
+ margin: 50px auto;
 }

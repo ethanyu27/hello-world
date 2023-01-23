@@ -21,6 +21,6 @@ p,b {
  width: 50%;
  height:355px;
  margin: 50px auto;
- display: flex;
+ display: flex-end;
  flex-direction: row;
 }

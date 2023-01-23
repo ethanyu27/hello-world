@@ -9,7 +9,7 @@
   margin: 50px auto;
 }
 
-p {
+p,b,iframe {
   display: block;
   width: 400px;
   margin: 50px auto;

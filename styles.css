@@ -5,7 +5,8 @@
 
 #octocat {
   display: flex;
-  width:384px;
+  flex-direction: row-reverse;
+  width:284px;
   margin: 50px auto;
 }
 

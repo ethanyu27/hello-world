@@ -21,8 +21,8 @@ p,b {
  width: 50%;
  height:355px;
  margin: 50px auto;
- display-items: flex;
- flex-display: flex-end;
+ display: flex;
+ flex-direction: flex-end;
  item-align: center;
  align-content: center;
 }

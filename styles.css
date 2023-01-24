@@ -27,4 +27,6 @@ margin-bottom: 15px; margin-left: 20px;
  flex-direction: flex-end;
 text-align: center;
  align-content: center;
+  background-color: blue; 
+        background-image: linear-gradient(to right, #0052b0 ,#b340b3); 
 }

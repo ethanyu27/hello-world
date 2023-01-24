@@ -1,7 +1,6 @@
 * {
   margin:0px;
-  padding:0px;
- 
+  padding:0px; 
 }
 
 #octocat {
@@ -30,7 +29,7 @@ text-align: center;
 align-content: center;
 
 }
-iframe{
+iframe {
 background-color: blue; 
 background-image: linear-gradient(to right, #0052b0 ,#b340b3); 
 }

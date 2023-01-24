@@ -1,6 +1,8 @@
 * {
   margin:0px;
   padding:0px;
+  background-color: blue; 
+  background-image: linear-gradient(to right, #0052b0 ,#b340b3); 
 }
 
 #octocat {

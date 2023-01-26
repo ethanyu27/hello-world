@@ -27,10 +27,11 @@ margin-bottom: 15px; margin-left: 20px;
 object-fit: cover;
 border-radius: 10px;
 
+}
 
 section {
   background-color: apple-green; 
   background-image: linear-gradient(to right, #0052b0 ,#b340b3); 
-}
+
 }
 

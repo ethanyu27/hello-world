@@ -44,14 +44,14 @@ position: relative;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  justify-content: auto default;
-  align-items: auto default;
+  justify-content: center;
+  align-items: center;
   gap: 16px;
-  max-width: 1400px;
+  max-width: 100%;
   margin:auto 0px auto;
   padding: 20px 10px;  
 }
-#gallery img{
+#gallery iframe{
 width: 100%;
 max-width: 350px;
 height: 300px;

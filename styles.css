@@ -10,7 +10,7 @@
   margin: 50px auto;
 }
 
-p,b {
+p {
   display: block;
   width: 400px;
   margin: 50px auto;
@@ -20,16 +20,16 @@ p,b {
 
 .myPDF {
    
-  height:700px;
-  width:700px;
-position: relative;
-margin: 250px;
+ display: block;
+  width: 500px;
+  margin: 50px auto;
   padding: 2px 2px 2px 2px;
   background-image:linear-gradient(to left, #0052b0 ,#b340b3); 
 
 }
 
 .myPDF iframe{
+  
   justify-content: center;  
   align-items: center;
  width: 150px;

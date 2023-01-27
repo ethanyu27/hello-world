@@ -32,10 +32,7 @@ position: relative;
 
 .myPDF iframe{
   position: absolute;
-  top:50%;
-  bottom: 50%;
-  right: 50%;
-  left: 50%;
+
   width: 100%;
   height: 100%;
    background-color: apple-green; 

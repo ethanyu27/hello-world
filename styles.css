@@ -22,7 +22,7 @@ section {
   background-image: linear-gradient(to right, #0052b0 ,#b340b3); 
 }
 
-#myPDF {
+.myPDF {
  width: 50%;
  height:355px;
 margin-top: 25px;

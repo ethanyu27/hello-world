@@ -24,12 +24,14 @@ section {
 .myPDF {
    justify-content: center;  align-items: center;
   align-items: center;
+  height:300px;
+  width:300px;
 
  display: flex;
 object-fit: cover;
 position: relative;
   overflow: show;
-  margin: 500px;
+  margin: 100%;
   padding: 200px;
   background-image:linear-gradient(to left, #0052b0 ,#b340b3); 
 
@@ -39,25 +41,24 @@ position: relative;
  width: 100%;
 max-width: 50%;
 height: 100%;
-object-fit: cover  ;
   border-radius: 10px;
  
   }
 
 #gallery{
-  justify-content: center;  align-items: center;
-  align-items: center;
-padding-top: 10.25%;
- display: flex;
+  justify-content: center;  
+padding-bottom: 10.25%;
+ display: auto;
 object-fit: cover;
 position: relative;
   overflow: show;
-  background-image:linear-gradient(  to right, #0052a0 ,#b350b3); }
+  background-image:linear-gradient(  to right, ##0052b0 ,#b340b3; 
+}
 
 #gallery iframe{
 width: 100%;
 max-width: 350px;
 height: 100%;
-object-fit: cover  ;
+object-fit:cover;
   border-radius: 10px;
 }

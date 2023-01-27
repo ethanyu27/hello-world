@@ -32,15 +32,15 @@ object-fit: cover;
 position: relative;
   overflow: show;
   margin: 10px;
-  padding: 200px;
+  padding: 2px 2px 2px 2px;
   background-image:linear-gradient(to left, #0052b0 ,#b340b3); 
 
 }
 
 .myPDF iframe{
- width: 100%;
-max-width: 50%;
-height: 100%;
+ width: 150px;
+max-width: 200px;
+height: 150px;
   border-radius: 10px;
  
   }

@@ -21,7 +21,8 @@ p {
 .myPDF {
    
  display: block;
-  width: 500px;
+  width: 600px;
+  height:777px;
   margin: 50px auto;
   padding: 2px 2px 2px 2px;
   background-image:linear-gradient(to left, #0052b0 ,#b340b3); 

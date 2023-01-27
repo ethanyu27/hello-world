@@ -1,4 +1,9 @@
 # Welcome to GitHub
+# My Academic School Calender 2022/2023
+> The lick below is a copy of Link to my official academic calendar for your *next* school term:<br>
+> [calender of activities 2022_2023.pdf](https://github.com/marrious11/marrious11/files/10476752/calender.of.activities.2022_2023.pdf) 
+> [tudent's Guide](https://www.ubuea.cm/wp-content/uploads/2015/10/students_guide.pdf)
+
 
 Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!
 

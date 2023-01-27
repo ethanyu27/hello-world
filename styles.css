@@ -34,14 +34,11 @@ position: relative;
 }
 
 .myPDF iframe{
-  justify-content: center;
-  
+ width: 100%;
+max-width: 350px;
+height: 100%;
 object-fit: cover  ;
   border-radius: 10px;
-  position: absolute;
-
-  width: 50%;
-  height: 50%;
  
   }
 
@@ -53,7 +50,7 @@ padding-top: 10.25%;
 object-fit: cover;
 position: relative;
   overflow: show;
-  background-image:linear-gradient(to right, #0052a0 ,#b350b3); }
+  background-image:linear-gradient(to center, #0052a0 ,#b350b3); }
 
 #gallery iframe{
 width: 100%;

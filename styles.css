@@ -31,7 +31,7 @@ section {
 object-fit: cover;
 position: relative;
   overflow: show;
-  margin: 100%;
+  margin: 10px;
   padding: 200px;
   background-image:linear-gradient(to left, #0052b0 ,#b340b3); 
 

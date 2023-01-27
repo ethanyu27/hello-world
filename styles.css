@@ -23,16 +23,22 @@ section {
 }
 
 .myPDF {
- width: 50%;
- height:355px;
-margin-top: 25px;
-margin-right: 10px;
-margin-bottom: 15px; margin-left: 20px;
+padding-top: 56.25%;
  display: flex;
 object-fit: cover;
-
+position: relative;
+  overflow: hidden;
 
 }
+
+-myPDF iframe{
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  }
+
 #gallery{
   display: flex;
   flex-direction: row;

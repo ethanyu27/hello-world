@@ -1,12 +1,14 @@
 * {
-  margin:0px;
-  padding:0px; 
-}
+  margin: 0px;
+  padding: 0px;
 
+}
+body{
+  background-color: rgba(68, 68, 68, 0.034);}
 #octocat {
   display: flex;
-  flex-direction: row-reverse;
-  width:284px;
+ 
+  width: 284px;
   margin: 50px auto;
 }
 
@@ -14,46 +16,46 @@ p {
   display: block;
   width: 400px;
   margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 30px Monaco, "Courier New", "DejaVu Sans Mono",
+    "Bitstream Vera Sans Mono", monospace;
 }
-
 
 .myPDF {
-   
- display: block;
-  width: 600px;
-  height:777px;
-  margin: 50px auto;
-  padding: 2px 2px 2px 2px;
-  background-image:linear-gradient(to left, #0052b0 ,#b340b3); 
-
-}
-
-.myPDF iframe{
-  
-  justify-content: center;  
-  align-items: center;
- width: 150px;
-max-width: 200px;
-height: 150px;
-  border-radius: 10px;
+  display: block;
+  width: 777px;
+  height: 600px;
+  margin: 110px auto;
  
-  }
-
-#gallery{
-  justify-content: center;  
-padding-bottom: 10.25%;
- display: auto;
-object-fit: cover;
-position: relative;
-  overflow: show;
- background: rgb(240, 66, 240);
+  background-image: linear-gradient(to left, #0052b0, #b340b3);
 }
 
-#gallery iframe{
-width: 100%;
-max-width: 350px;
-height: 100%;
-object-fit:cover;
-  border-radius: 10px;
+.myPDF iframe {
+  justify-content: center;
+  align-items: center;
+  width: inherit;
+  /*max-width: 200px;*/
+  height: inherit;
+  border-radius: 30px;
+}
+
+#gallery {
+   
+  background: rgba(252, 0, 0, 0.123);
+  height: fit-content;
+  width: fit-content;
+  margin: 110px auto;
+  display: block;
+}
+
+#gallery iframe {
+  justify-content: center;
+  align-items: center;
+  width: inherit;
+  
+  height: inherit;
+  border-radius: 30px;
+  width: 900px;
+  height: 607px;
+  margin: 50px auto;
+  
 }

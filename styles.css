@@ -50,7 +50,7 @@ padding-top: 10.25%;
 object-fit: cover;
 position: relative;
   overflow: show;
-  background-image:linear-gradient( center, #0052a0 ,#b350b3); }
+  background-image:linear-gradient(  to right, #0052a0 ,#b350b3); }
 
 #gallery iframe{
 width: 100%;

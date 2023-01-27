@@ -24,14 +24,10 @@ section {
 .myPDF {
    justify-content: center;  align-items: center;
   align-items: center;
-  height:300px;
-  width:300px;
-
- display: flex;
-object-fit: cover;
+  height:700px;
+  width:700px;
 position: relative;
-  overflow: show;
-  margin: 10px;
+margin: 10px;
   padding: 2px 2px 2px 2px;
   background-image:linear-gradient(to left, #0052b0 ,#b340b3); 
 

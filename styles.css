@@ -27,6 +27,8 @@ padding-top: 56.25%;
 object-fit: cover;
 position: relative;
   overflow: hidden;
+   background-color:green; 
+  background-image:linear-gradient(to left, #0052b0 ,#b340b3); 
 
 }
 
@@ -35,8 +37,7 @@ position: relative;
 
   width: 100%;
   height: 100%;
-  background-color:green; 
-  background-image: url(scr="./")linear-gradient(to left, #0052b0 ,#b340b3); 
+ 
   }
 
 #gallery{

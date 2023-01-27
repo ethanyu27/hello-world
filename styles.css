@@ -29,13 +29,15 @@ section {
 object-fit: cover;
 position: relative;
   overflow: show;
+  margin: 500px;
+  padding: 200px;
   background-image:linear-gradient(to left, #0052b0 ,#b340b3); 
 
 }
 
 .myPDF iframe{
  width: 100%;
-max-width: 350px;
+max-width: 50%;
 height: 100%;
 object-fit: cover  ;
   border-radius: 10px;

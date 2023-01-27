@@ -46,7 +46,7 @@ object-fit: cover  ;
   }
 
 #gallery{
-  ustify-content: center;  align-items: center;
+  justify-content: center;  align-items: center;
   align-items: center;
 padding-top: 10.25%;
  display: flex;

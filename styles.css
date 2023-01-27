@@ -46,16 +46,15 @@ object-fit: cover  ;
   }
 
 #gallery{
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: center;
+  ustify-content: center;  align-items: center;
   align-items: center;
-  gap: 16px;
-  max-width: 100%;
-  margin:auto 0px auto;
-  padding: 20px 10px;  
-}
+padding-top: 56.25%;
+ display: flex;
+object-fit: cover;
+position: relative;
+  overflow: show;
+  background-image:linear-gradient(to right, #0052a0 ,#b350b3); }
+
 #gallery iframe{
 width: 100%;
 max-width: 350px;

@@ -33,4 +33,16 @@ object-fit: cover;
 border-radius: 10px;
 
 }
-
+#gallery{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: auto default;
+  align-items: auto default;
+  gap: 16px;
+  max-width: 1400px;
+  margin:auto 0px auto;
+  padding: 20px 10px;
+  
+  
+}

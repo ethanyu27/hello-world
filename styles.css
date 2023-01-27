@@ -18,8 +18,7 @@ p,b {
 }
 
 section {
-  background-color: apple-green; 
-  background-image: linear-gradient(to right, #0052b0 ,#b340b3); 
+ 
 }
 
 .myPDF {
@@ -37,6 +36,8 @@ position: relative;
   left: 0;
   width: 100%;
   height: 100%;
+   background-color: apple-green; 
+  background-image: linear-gradient(to right, #0052b0 ,#b340b3); 
   }
 
 #gallery{
